@@ -1,0 +1,3 @@
+﻿  DecimalToBinary.cpp
+D:\Work\Cpp\Different Projects\DecimalToBinary\DecimalToBinary\DecimalToBinary.cpp(48,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  DecimalToBinary.vcxproj -> D:\Work\Cpp\Different Projects\DecimalToBinary\Debug\DecimalToBinary.exe
